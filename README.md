@@ -1,5 +1,10 @@
 # Ritual Predict
 
+> **wakbowaa — Participation Analytics Edition.** This fork adds on-chain
+> unique-bettor, total-bet, and per-wallet activity counters, plus an interactive
+> Market Pulse frontend in `web/`. Repeat bets increase activity without being
+> misreported as new participants. See [BUILD_LOG.md](BUILD_LOG.md).
+
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
 
 Create a market like _"Will ETH/USD be at least $4,000 when this market resolves?"_, stake native
